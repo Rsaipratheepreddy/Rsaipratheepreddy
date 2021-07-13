@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaipratheepreddy&label=Profile%20views&color=0e75b6&style=flat" alt="rsaipratheepreddy" /> </p>
 
+- Currently: Doing bachlors in Information Technology at 📫
+  **MARRI LAXMAN REDDY INSTITUTE OF TECHNOLOGY AND MANAGEMENT** (3rd Year)
+
 - 🌱 I’m currently learning **javascript,react,django**
 
 - 💬 Ask me about **Frontend development,Backend development**
