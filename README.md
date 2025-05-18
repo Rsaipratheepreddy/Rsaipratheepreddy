@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RAMIREDDY SAI PRATHEEP REDDY</h1>
-<h3 align="center">A passionate student developer from India & still learning</h3>
 
 - 📫 How to reach me **saipratheepreddy2818@gmail.com**
 
