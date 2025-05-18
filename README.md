@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAMIREDDY SAI PRATHEEP REDDY</h1>
 <h3 align="center">A passionate student developer from India & still learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaipratheepreddy&label=Profile%20views&color=0e75b6&style=flat" alt="rsaipratheepreddy" /> </p>
-
-- Currently: Doing bachelors in Information Technology at 📫
-  **MARRI LAXMAN REDDY INSTITUTE OF TECHNOLOGY AND MANAGEMENT** (3rd Year)
-
-- 🌱 I’m currently learning **javascript,react,django**
-
-- 💬 Ask me about **Frontend development,Backend development**
-
 - 📫 How to reach me **saipratheepreddy2818@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
